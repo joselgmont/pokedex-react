@@ -3,6 +3,7 @@ import Card from './Card';
 import pokemonList from '../pokemon';
 
 function renderCards(card){
+  
   return (
     <Card 
       key = {card.key}
@@ -10,9 +11,11 @@ function renderCards(card){
       dexNum = {card.dexNum}
       imagemCard = {card.imagemCard}
       descricao = {card.descricao}
+      tipo = {card.tipo}
     />
   );
 }
+
 
 
 

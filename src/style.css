@@ -34,7 +34,7 @@ h1 span {
   margin-bottom: 20px;
   border-radius: 15px;
   border: 10px solid gold;
-  background-color: #95CAAD;
+  background-color: snow;
   box-shadow: 6px 8px 8px rgba(0, 0, 0, 0.5);
 }
 
@@ -60,7 +60,7 @@ h1 span {
 }
 
 .card-imagem {
-  background: linear-gradient(#6DA887, gray);
+  background: linear-gradient(#00000070, gray);
   border-radius: 8px;
   height: 180px;
   margin-bottom: 15px;
@@ -88,4 +88,12 @@ h1 span {
   border-radius: 150px / 50px;
   position: absolute;
   bottom: 5px;
+}
+
+.grama{
+  background-color: #79CBAD;
+}
+
+.fogo{
+  background-color: #f77546;
 }
