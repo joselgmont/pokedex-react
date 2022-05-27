@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: #20232a;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 400%;
+  margin: 60px;
+  color: white;
+}
+
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+h1 span {
+  padding: 20px 30px;
+  background-color: #61dafb;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+  padding: 15px;
+  margin: 10px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 10px solid gold;
+  background-color: #95CAAD;
+  box-shadow: 6px 8px 8px rgba(0, 0, 0, 0.5);
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.card-conteudo {
+  width: 100%;
+  height: 100%;
+}
+
+.card-titulo {
+  padding: 5px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card-imagem {
+  background: linear-gradient(#6DA887, gray);
+  border-radius: 8px;
+  height: 180px;
+  margin-bottom: 15px;
+  padding: 5px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.card-imagem img {
+  position: relative;
+  z-index: 1;
+}
+
+.descricao {
+  padding: 15px;
+  height: 115px;
+  border-radius: 8px;
+  background: white;
+}
+#sombra {
+  width: 200px;
+  height: 65px;
+  background: rgb(189, 189, 189);
+  border-radius: 150px / 50px;
+  position: absolute;
+  bottom: 5px;
+}
