@@ -1,1 +1,3 @@
-# pokedex-react
+# Pokedex - React
+
+Catálogo Pokémon utilizando React.
