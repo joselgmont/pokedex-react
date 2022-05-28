@@ -70,6 +70,14 @@ const pokemonList = [
         imagemCard: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
         descricao: "Os canhões em seu casco disparam jatos de água capazes de perfurar o aço denso.",
         tipo: "agua"
+    },
+    {
+        key: "25",
+        dexNum: "025",
+        nome: "Pikachu",
+        imagemCard: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+        descricao: "Pikachu consegue gerar eletricidade em suas bochechas, que são extremamente macias e super elásticas.",
+        tipo: "eletrico"
     }
 
 
