@@ -46,6 +46,30 @@ const pokemonList = [
         imagemCard: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
         descricao: "Ele cospe fogo que é quente o suficiente para derreter pedregulhos. Pode causar incêndios florestais soprando suas chamas.",
         tipo: "fogo"
+    },
+    {
+        key: "7",
+        dexNum: "007",
+        nome: "Squirtle",
+        imagemCard: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        descricao: "Quando se sente ameaçado, puxa seus membros para dentro de sua concha e dispara água de sua boca.",
+        tipo: "agua"
+    },
+    {
+        key: "8",
+        dexNum: "008",
+        nome: "Wartortle",
+        imagemCard: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        descricao: "É considerado um símbolo de longevidade. Se sua concha possuir algas, esse Wartortle é muito velho.",
+        tipo: "agua"
+    },
+    {
+        key: "9",
+        dexNum: "009",
+        nome: "Blastoise",
+        imagemCard: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        descricao: "Os canhões em seu casco disparam jatos de água capazes de perfurar o aço denso.",
+        tipo: "agua"
     }
 
 
